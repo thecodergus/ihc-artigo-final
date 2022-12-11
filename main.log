@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.4)  9 DEC 2022 20:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.4)  11 DEC 2022 19:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -206,69 +206,70 @@ Overfull \hbox (54.05441pt too wide) in paragraph at lines 38--38
  [][] 
  []
 
-<./imgs//O design do jogo é atraente..png, id=1, 433.62pt x 433.62pt>
-File: ./imgs//O design do jogo é atraente..png Graphic file (type png)
-<use ./imgs//O design do jogo é atraente..png>
-Package pdftex.def Info: ./imgs//O design do jogo é atraente..png  used on input line 74.
-(pdftex.def)             Requested size: 173.44492pt x 173.44492pt.
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<./imgs//O design do jogo é atraente..png, id=11, 433.62pt x 433.62pt>
+File: ./imgs//O design do jogo é atraente..png Graphic file (type png)
+<use ./imgs//O design do jogo é atraente..png>
+Package pdftex.def Info: ./imgs//O design do jogo é atraente..png  used on input line 83.
+(pdftex.def)             Requested size: 173.44492pt x 173.44492pt.
 <./imgs//O jogo contribuiu para a minha aprendizagem na disciplina..png, id=13, 433.62pt x 433.62pt>
 File: ./imgs//O jogo contribuiu para a minha aprendizagem na disciplina..png Graphic file (type png)
 <use ./imgs//O jogo contribuiu para a minha aprendizagem na disciplina..png>
-Package pdftex.def Info: ./imgs//O jogo contribuiu para a minha aprendizagem na disciplina..png  used on input line 80.
+Package pdftex.def Info: ./imgs//O jogo contribuiu para a minha aprendizagem na disciplina..png  used on input line 92.
 (pdftex.def)             Requested size: 173.44492pt x 173.44492pt.
 <./imgs//O jogo evolui num ritmo adequado e não fica monótono — oferece novos obstáculos, situações ou variações de atividades..png, id=14, 433.62pt x 433.62pt>
 File: ./imgs//O jogo evolui num ritmo adequado e não fica monótono — oferece novos obstáculos, situações ou variações de atividades..png Graphic file (type png)
 <use ./imgs//O jogo evolui num ritmo adequado e não fica monótono — oferece novos obstáculos, situações ou variações de atividades..png>
-Package pdftex.def Info: ./imgs//O jogo evolui num ritmo adequado e não fica monótono — oferece novos obstáculos, situações ou variações de atividades..png  used on input line 87.
+Package pdftex.def Info: ./imgs//O jogo evolui num ritmo adequado e não fica monótono — oferece novos obstáculos, situações ou variações de atividades..png  used on input line 101.
 (pdftex.def)             Requested size: 173.44492pt x 173.44492pt.
-<./imgs//O conteúdo do jogo está conectado com outros conhecimentos que eu já possuía..png, id=15, 433.62pt x 433.62pt>
+ [2 <./imgs//O design do jogo é atraente..png> <./imgs//O jogo contribuiu para a minha aprendizagem na disciplina..png>]
+<./imgs//O conteúdo do jogo está conectado com outros conhecimentos que eu já possuía..png, id=20, 433.62pt x 433.62pt>
 File: ./imgs//O conteúdo do jogo está conectado com outros conhecimentos que eu já possuía..png Graphic file (type png)
 <use ./imgs//O conteúdo do jogo está conectado com outros conhecimentos que eu já possuía..png>
-Package pdftex.def Info: ./imgs//O conteúdo do jogo está conectado com outros conhecimentos que eu já possuía..png  used on input line 94.
+Package pdftex.def Info: ./imgs//O conteúdo do jogo está conectado com outros conhecimentos que eu já possuía..png  used on input line 110.
 (pdftex.def)             Requested size: 173.44492pt x 173.44492pt.
- [2 <./imgs//O design do jogo é atraente..png> <./imgs//O jogo contribuiu para a minha aprendizagem na disciplina..png> <./imgs//O jogo evolui num ritmo adequado e não fica monótono — oferece novos obstáculos, situações ou variações de atividades..png>]
-<./imgs//O jogo forneceu feedback constante dos meus acertos e erros durante e ao final..png, id=22, 433.62pt x 433.62pt>
+<./imgs//O jogo forneceu feedback constante dos meus acertos e erros durante e ao final..png, id=21, 433.62pt x 433.62pt>
 File: ./imgs//O jogo forneceu feedback constante dos meus acertos e erros durante e ao final..png Graphic file (type png)
 <use ./imgs//O jogo forneceu feedback constante dos meus acertos e erros durante e ao final..png>
-Package pdftex.def Info: ./imgs//O jogo forneceu feedback constante dos meus acertos e erros durante e ao final..png  used on input line 100.
+Package pdftex.def Info: ./imgs//O jogo forneceu feedback constante dos meus acertos e erros durante e ao final..png  used on input line 118.
 (pdftex.def)             Requested size: 173.44492pt x 173.44492pt.
-<./imgs//Eu gostei do jogo e não me senti ansioso ou entediado por causa dele..png, id=23, 433.62pt x 433.62pt>
+ [3 <./imgs//O jogo evolui num ritmo adequado e não fica monótono — oferece novos obstáculos, situações ou variações de atividades..png> <./imgs//O conteúdo do jogo está conectado com outros conhecimentos que eu já possuía..png> <./imgs//O jogo forneceu feedback constante dos meus acertos e erros durante e ao final..png>]
+<./imgs//Eu gostei do jogo e não me senti ansioso ou entediado por causa dele..png, id=28, 433.62pt x 433.62pt>
 File: ./imgs//Eu gostei do jogo e não me senti ansioso ou entediado por causa dele..png Graphic file (type png)
 <use ./imgs//Eu gostei do jogo e não me senti ansioso ou entediado por causa dele..png>
-Package pdftex.def Info: ./imgs//Eu gostei do jogo e não me senti ansioso ou entediado por causa dele..png  used on input line 106.
+Package pdftex.def Info: ./imgs//Eu gostei do jogo e não me senti ansioso ou entediado por causa dele..png  used on input line 126.
 (pdftex.def)             Requested size: 173.44492pt x 173.44492pt.
-<./imgs//A organização das informações na tela está clara e objetiva.png, id=24, 433.62pt x 433.62pt>
+<./imgs//A organização das informações na tela está clara e objetiva.png, id=29, 433.62pt x 433.62pt>
 File: ./imgs//A organização das informações na tela está clara e objetiva.png Graphic file (type png)
 <use ./imgs//A organização das informações na tela está clara e objetiva.png>
-Package pdftex.def Info: ./imgs//A organização das informações na tela está clara e objetiva.png  used on input line 112.
+Package pdftex.def Info: ./imgs//A organização das informações na tela está clara e objetiva.png  used on input line 135.
 (pdftex.def)             Requested size: 173.44492pt x 173.44492pt.
- [3 <./imgs//O conteúdo do jogo está conectado com outros conhecimentos que eu já possuía..png> <./imgs//O jogo forneceu feedback constante dos meus acertos e erros durante e ao final..png> <./imgs//Eu gostei do jogo e não me senti ansioso ou entediado por causa dele..png>]
-<./imgs//Esquema de pontuação de acertos e erros foi feita de forma justa.png, id=31, 433.62pt x 433.62pt>
+<./imgs//Esquema de pontuação de acertos e erros foi feita de forma justa.png, id=30, 433.62pt x 433.62pt>
 File: ./imgs//Esquema de pontuação de acertos e erros foi feita de forma justa.png Graphic file (type png)
 <use ./imgs//Esquema de pontuação de acertos e erros foi feita de forma justa.png>
-Package pdftex.def Info: ./imgs//Esquema de pontuação de acertos e erros foi feita de forma justa.png  used on input line 118.
+Package pdftex.def Info: ./imgs//Esquema de pontuação de acertos e erros foi feita de forma justa.png  used on input line 143.
 (pdftex.def)             Requested size: 173.44492pt x 173.44492pt.
-<./imgs//Foi fácil entender o jogo..png, id=32, 433.62pt x 433.62pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4 <./imgs//Eu gostei do jogo e não me senti ansioso ou entediado por causa dele..png> <./imgs//A organização das informações na tela está clara e objetiva.png>]
+<./imgs//Foi fácil entender o jogo..png, id=36, 433.62pt x 433.62pt>
 File: ./imgs//Foi fácil entender o jogo..png Graphic file (type png)
 <use ./imgs//Foi fácil entender o jogo..png>
-Package pdftex.def Info: ./imgs//Foi fácil entender o jogo..png  used on input line 124.
+Package pdftex.def Info: ./imgs//Foi fácil entender o jogo..png  used on input line 151.
 (pdftex.def)             Requested size: 173.44492pt x 173.44492pt.
-<./imgs//O tempo de jogo foi satisfatório..png, id=33, 433.62pt x 433.62pt>
+<./imgs//O tempo de jogo foi satisfatório..png, id=37, 433.62pt x 433.62pt>
 File: ./imgs//O tempo de jogo foi satisfatório..png Graphic file (type png)
 <use ./imgs//O tempo de jogo foi satisfatório..png>
-Package pdftex.def Info: ./imgs//O tempo de jogo foi satisfatório..png  used on input line 130.
+Package pdftex.def Info: ./imgs//O tempo de jogo foi satisfatório..png  used on input line 159.
 (pdftex.def)             Requested size: 173.44492pt x 173.44492pt.
-
-Underfull \vbox (badness 2103) has occurred while \output is active []
-
- [4 <./imgs//A organização das informações na tela está clara e objetiva.png> <./imgs//Esquema de pontuação de acertos e erros foi feita de forma justa.png> <./imgs//Foi fácil entender o jogo..png>] (./main.bbl
+ [5 <./imgs//Esquema de pontuação de acertos e erros foi feita de forma justa.png> <./imgs//Foi fácil entender o jogo..png> <./imgs//O tempo de jogo foi satisfatório..png>] (./main.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [5 <./imgs//O tempo de jogo foi satisfatório..png>] (./main.aux) ) 
+) [6] (./main.aux) ) 
 Here is how much of TeX's memory you used:
  3183 strings out of 474971
  59374 string characters out of 5776129
@@ -278,10 +279,10 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  70i,10n,76p,460b,242s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (5 pages, 229379 bytes).
+Output written on main.pdf (6 pages, 231540 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
+ 70 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 

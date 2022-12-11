@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex main"] 1670628137 "main.aux" "main.bbl" "main" 1670628482
+["bibtex main"] 1670797668 "main.aux" "main.bbl" "main" 1670797669
   "./sbc.bst" 1670619802 21863 e2f961827e28074ef5a2bc27ccb7b310 ""
-  "main.aux" 1670628481 2139 50530de3a56abd09b6a9239e1b7e0d39 "pdflatex"
+  "main.aux" 1670797669 2653 d177c17667e3ed51d515c4a11e68db1d "pdflatex"
   "sbc-template.bib" 1670619802 724 418bff9cd1ab003737f69f69e5306b63 ""
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1670628481 "/home/gus/Documentos/Ihc - relatorio Final/main.tex" "main.pdf" "main" 1670628482
-  "/home/gus/Documentos/Ihc - relatorio Final/main.tex" 1670628480 5675 f540fed190e4b4639af2f66083cedc5b ""
+["pdflatex"] 1670797668 "/home/gus/Documentos/Ihc - relatorio Final/main.tex" "main.pdf" "main" 1670797669
+  "/home/gus/Documentos/Ihc - relatorio Final/main.tex" 1670797667 6976 d5d03b68e4f6f8f8eb8e3a800c567bc7 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -78,9 +78,9 @@
   "imgs//O jogo evolui num ritmo adequado e não fica monótono — oferece novos obstáculos, situações ou variações de atividades..png" 1670627336 27609 b280d161df0646bc848e88f4f0c6786d ""
   "imgs//O jogo forneceu feedback constante dos meus acertos e erros durante e ao final..png" 1670627336 26891 d2aea16999aa3b4abb0d93f33a0726bb ""
   "imgs//O tempo de jogo foi satisfatório..png" 1670627337 22339 36cb0f35e52a6550ca99714992cb7f7e ""
-  "main.aux" 1670628481 2139 50530de3a56abd09b6a9239e1b7e0d39 "pdflatex"
-  "main.bbl" 1670628137 49 0eba253fc001332e731e8aba3f23127b "bibtex main"
-  "main.tex" 1670628480 5675 f540fed190e4b4639af2f66083cedc5b ""
+  "main.aux" 1670797669 2653 d177c17667e3ed51d515c4a11e68db1d "pdflatex"
+  "main.bbl" 1670797668 49 0eba253fc001332e731e8aba3f23127b "bibtex main"
+  "main.tex" 1670797667 6976 d5d03b68e4f6f8f8eb8e3a800c567bc7 ""
   "sbc-template.sty" 1670619802 5280 0a277450ee6cfc82a68e4b0b0f92e15e ""
   (generated)
   "main.aux"
